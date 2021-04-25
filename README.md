@@ -9,7 +9,7 @@ reasonable-wordlist-generator
 
 
 ```diff
-+python wordlist_generator.py -(arguments)
+ python wordlist_generator.py -(arguments)
 ```
 </br>
 
