@@ -7,11 +7,9 @@
 
 ```
 python wordlist_generator -(arguments)
-
 ```
 
 ```python
->available arguments 
 python wordlist_generator -fname -mname -lname -f
 ```
 
@@ -20,12 +18,18 @@ python wordlist_generator -fname -mname -lname -f
 ```python
 python wordlist_generator -fname -mname -lname
 ```
-`-fname` : first name (required)
-`-mname` : middle name (optional)
-`lname`  : last name (optional)
+>available arguments 
 
+`-fname` : first name (required) <br/>
+`-mname` : middle name (optional) <br/>
+`-lname`  : last name (optional) <br/>
 
 ### CAPITALIZE first character in already existing wordlist
 `python wordlist_generator -f <path to your wordlist>`
+
+### DEVELOPMENT
+There is `-r` argument which will delete already generated wordlists by this tool.
+
+
 
 
