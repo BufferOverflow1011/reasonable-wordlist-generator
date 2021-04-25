@@ -15,13 +15,14 @@ reasonable-wordlist-generator
 
 This will create alphabets only wordlist:
 ```python
-python wordlist_generator.py -fname -mname -lname
+python wordlist_generator.py -fname <first_name> -mname<middle_name> -lname <last_name>
+example : python wordlist_generator.py -fname marcel -mname j  -lname luther
 ```
 
 This will create alpha numeric wordlist:
 
 ```python
-python wordlist_generator.py -fname -mname -lname -n
+python wordlist_generator.py -fname <first_name> -mname <middle_name> -lname <last_name> -n
 ````
 The paramerts of `-n` will be asked later
 
@@ -37,7 +38,7 @@ python wordlist_generator.py -fname -mname -lname
 `-fname` : first name (required): <br/>
 `-mname` : middle name (optional) <br/>
 `-lname` : last name (optional) <br/>
-`-n`     : append digits(optional
+`-n`     : append digits(optional)<br/>
 
 ### CAPITALIZE first character in already existing wordlist
 `python wordlist_generator.py -f <path to your wordlist>`
