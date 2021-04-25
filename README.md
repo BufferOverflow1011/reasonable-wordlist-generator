@@ -5,10 +5,10 @@ reasonable-wordlist-generator
 > This wordlist contain both Capitalised and Normal First charater of all First Middle Last Name.</br>
 >_Python 3 preferred_
 
-##USAGE
+## USAGE
 
 
-```diff
+```
  python wordlist_generator.py -(arguments)
 ```
 </br>
