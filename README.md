@@ -4,7 +4,7 @@
 > This wordlist contain both Capitalised and Normal First charater of all First Middle Last Name.</br>
 
 ## USAGE
->_PYTHON 3 preferred_
+>_Python 3 preferred_
 ```
 python wordlist_generator.py -(arguments)
 ```
