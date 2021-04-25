@@ -4,19 +4,19 @@
 > This wordlist contain both Capitalised and Normal First charater of all First Middle Last Name
 
 ## USAGE
-
+_PYTHON 3 PREFERED_
 ```
-python wordlist_generator -(arguments)
+python wordlist_generator.py -(arguments)
 ```
 
 ```python
-python wordlist_generator -fname -mname -lname -f
+python wordlist_generator.py -fname -mname -lname -f
 ```
 
 ### based on user input 
 
 ```python
-python wordlist_generator -fname -mname -lname
+python wordlist_generator.py -fname -mname -lname
 ```
 >available arguments 
 
@@ -25,7 +25,7 @@ python wordlist_generator -fname -mname -lname
 `-lname`  : last name (optional) <br/>
 
 ### CAPITALIZE first character in already existing wordlist
-`python wordlist_generator -f <path to your wordlist>`
+`python wordlist_generator.py -f <path to your wordlist>`
 
 ### DEVELOPMENT
 There is `-r` argument which will delete already generated wordlists by this tool.
