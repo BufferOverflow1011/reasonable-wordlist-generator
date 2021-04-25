@@ -1,11 +1,11 @@
 # reasonable-wordlist-generator
 reasonable-wordlist-generator 
 > This is a basic friendly wordlist with basic entries like first middle last name . This will create combination of not all possible wordlist but *practical or readable wordlist*.</br>
-> There is a option to append numbers at the end of every words. This will join all possible numbers with in your given range to all the words.</br
+> There is a option to append numbers at the end of every words. This will join all possible numbers with in your given range to all the words.</br>
 > This wordlist contain both Capitalised and Normal First charater of all First Middle Last Name.</br>
 >_Python 3 preferred_
 
-## USAGE
+## How to use
 
 
 ```
