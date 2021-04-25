@@ -44,8 +44,3 @@ python wordlist_generator.py -fname -mname -lname
 
 ### DEVELOPMENT
 There is `-r` argument which will delete already generated wordlists by this tool.
-
-
-
-
-
